@@ -17,3 +17,8 @@ step 3: start the server.
 
         *the server starts in port 3000.
          Open [http://localhost:3000](http://localhost:3000) to view it in your browse
+
+## Hosting 
+
+This application is hosted on netlify platform.
+link: https://prismatic-salmiakki-025607.netlify.app
