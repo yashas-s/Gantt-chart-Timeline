@@ -1,6 +1,6 @@
 # About React App
 
-This is a gantt-chat timeline app created using react.
+This is a gantt-chart timeline app created using react.
 
 ## Scripts used
 React Js, HTML, CSS, React-Bootstrap.
